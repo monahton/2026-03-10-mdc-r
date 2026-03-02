@@ -91,7 +91,7 @@ the pitch.
 {% endcomment %}
 
 <p>
-<strong><a href="https://www.trinobia.com">Trinobia Academy</a></strong> comprises communities of Instructors, Trainers, Maintainers,
+<strong><a href="https://www.trinobia.com">Trinobia</a></strong> comprises communities of Instructors, Trainers, Maintainers,
 helpers, and supporters who share a mission to teach foundational computational and data science
 skills to researchers.
 
@@ -283,7 +283,7 @@ CODE OF CONDUCT
 <h2 id="code-of-conduct">Code of Conduct</h2>
 
 <p>
-Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. This document also outlines how to report an incident if needed.
+Everyone who participates in Trinobia activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a> as outlined in The Carpentries. This document also outlines how to report an incident if needed.
 </p>
 
 <p class="text-center">
@@ -399,7 +399,7 @@ please preview your site before committing, and make sure to run
   {% if site.carpentry == "swc" %}
   Software Carpentry
   {% elsif site.carpentry == "dc" %}
-  Data Carpentry
+  Trinobia Academy
   {% elsif site.carpentry == "lc" %}
   Library Carpentry
   {% endif %}
